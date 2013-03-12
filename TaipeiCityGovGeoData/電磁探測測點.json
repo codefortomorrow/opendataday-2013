@@ -1,0 +1,16 @@
+{ "type": "FeatureCollection", 
+  "features": [
+{"geometry": {"type": "Point", "coordinates": [121.52188788229707, 25.143652873892865]}, "type": "Feature", "properties": {"CITY": null, "Y97": 0.0, "Y67": 0.0, "X97": 0.0, "NO": "M1", "X67": 0.0, "RM_OBS": 0.0, "O_TIME": null, "OBS_DEP": 0.0, "METADATA": null}}
+{"geometry": {"type": "Point", "coordinates": [121.52297457275691, 25.143716757910887]}, "type": "Feature", "properties": {"CITY": null, "Y97": 0.0, "Y67": 0.0, "X97": 0.0, "NO": "M2", "X67": 0.0, "RM_OBS": 0.0, "O_TIME": null, "OBS_DEP": 0.0, "METADATA": null}, "id": 1}
+{"geometry": {"type": "Point", "coordinates": [121.51997916277752, 25.144492409845014]}, "type": "Feature", "properties": {"CITY": null, "Y97": 0.0, "Y67": 0.0, "X97": 0.0, "NO": "M3", "X67": 0.0, "RM_OBS": 0.0, "O_TIME": null, "OBS_DEP": 0.0, "METADATA": null}, "id": 2}
+{"geometry": {"type": "Point", "coordinates": [121.5198249421553, 25.14342763394459]}, "type": "Feature", "properties": {"CITY": null, "Y97": 0.0, "Y67": 0.0, "X97": 0.0, "NO": "M4", "X67": 0.0, "RM_OBS": 0.0, "O_TIME": null, "OBS_DEP": 0.0, "METADATA": null}, "id": 3}
+{"geometry": {"type": "Point", "coordinates": [121.51834857902253, 25.142893422169365]}, "type": "Feature", "properties": {"CITY": null, "Y97": 0.0, "Y67": 0.0, "X97": 0.0, "NO": "M5", "X67": 0.0, "RM_OBS": 0.0, "O_TIME": null, "OBS_DEP": 0.0, "METADATA": null}, "id": 4}
+{"geometry": {"type": "Point", "coordinates": [121.51698682781306, 25.142491971538874]}, "type": "Feature", "properties": {"CITY": null, "Y97": 0.0, "Y67": 0.0, "X97": 0.0, "NO": "M6", "X67": 0.0, "RM_OBS": 0.0, "O_TIME": null, "OBS_DEP": 0.0, "METADATA": null}, "id": 5}
+{"geometry": {"type": "Point", "coordinates": [121.52165913398431, 25.14472802545493]}, "type": "Feature", "properties": {"CITY": null, "Y97": 0.0, "Y67": 0.0, "X97": 0.0, "NO": "M7", "X67": 0.0, "RM_OBS": 0.0, "O_TIME": null, "OBS_DEP": 0.0, "METADATA": null}, "id": 6}
+{"geometry": {"type": "Point", "coordinates": [121.52300940492925, 25.144921899260268]}, "type": "Feature", "properties": {"CITY": null, "Y97": 0.0, "Y67": 0.0, "X97": 0.0, "NO": "M8", "X67": 0.0, "RM_OBS": 0.0, "O_TIME": null, "OBS_DEP": 0.0, "METADATA": null}, "id": 7}
+{"geometry": {"type": "Point", "coordinates": [121.52350007830589, 25.146585812148704]}, "type": "Feature", "properties": {"CITY": null, "Y97": 0.0, "Y67": 0.0, "X97": 0.0, "NO": "M9", "X67": 0.0, "RM_OBS": 0.0, "O_TIME": null, "OBS_DEP": 0.0, "METADATA": null}, "id": 8}
+{"geometry": {"type": "Point", "coordinates": [121.52444129288578, 25.14424653313386]}, "type": "Feature", "properties": {"CITY": null, "Y97": 0.0, "Y67": 0.0, "X97": 0.0, "NO": "M10", "X67": 0.0, "RM_OBS": 0.0, "O_TIME": null, "OBS_DEP": 0.0, "METADATA": null}, "id": 9}
+{"geometry": {"type": "Point", "coordinates": [121.52421707999075, 25.145382526827646]}, "type": "Feature", "properties": {"CITY": null, "Y97": 0.0, "Y67": 0.0, "X97": 0.0, "NO": "M11", "X67": 0.0, "RM_OBS": 0.0, "O_TIME": null, "OBS_DEP": 0.0, "METADATA": null}, "id": 10}
+{"geometry": {"type": "Point", "coordinates": [121.52381201609514, 25.145031924100113]}, "type": "Feature", "properties": {"CITY": null, "Y97": 0.0, "Y67": 0.0, "X97": 0.0, "NO": "M12", "X67": 0.0, "RM_OBS": 0.0, "O_TIME": null, "OBS_DEP": 0.0, "METADATA": null}, "id": 11}
+    ]
+}

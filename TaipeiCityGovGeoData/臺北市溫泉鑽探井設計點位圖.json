@@ -1,0 +1,38 @@
+{ "type": "FeatureCollection", 
+  "features": [
+{"geometry": {"type": "Point", "coordinates": [121.52988140700086, 25.142950677953475]}, "type": "Feature", "properties": {"Y": 2781912.361, "X": 302595.749, "ID": 0.0, "DGNTEXT": "4064"}}
+{"geometry": {"type": "Point", "coordinates": [121.52831323906003, 25.143159236740345]}, "type": "Feature", "properties": {"Y": 2781934.842, "X": 302437.547, "ID": 1.0, "DGNTEXT": "4064"}, "id": 1}
+{"geometry": {"type": "Point", "coordinates": [121.53049499068766, 25.14161043811683]}, "type": "Feature", "properties": {"Y": 2781764.15, "X": 302658.198, "ID": 2.0, "DGNTEXT": "4063"}, "id": 2}
+{"geometry": {"type": "Point", "coordinates": [121.52983359639755, 25.141439910519516]}, "type": "Feature", "properties": {"Y": 2781744.999, "X": 302591.586, "ID": 3.0, "DGNTEXT": "4063"}, "id": 3}
+{"geometry": {"type": "Point", "coordinates": [121.52958125347573, 25.140373382021107]}, "type": "Feature", "properties": {"Y": 2781626.763, "X": 302566.607, "ID": 4.0, "DGNTEXT": "4063"}, "id": 4}
+{"geometry": {"type": "Point", "coordinates": [121.52629556694043, 25.142542505068448]}, "type": "Feature", "properties": {"Y": 2781865.733, "X": 302234.381, "ID": 5.0, "DGNTEXT": "3963"}, "id": 5}
+{"geometry": {"type": "Point", "coordinates": [121.5233649916491, 25.142800949325107]}, "type": "Feature", "properties": {"Y": 2781893.21, "X": 301938.792, "ID": 6.0, "DGNTEXT": "3963"}, "id": 6}
+{"geometry": {"type": "Point", "coordinates": [121.52360325451036, 25.146385763819893]}, "type": "Feature", "properties": {"Y": 2782290.382, "X": 301961.273, "ID": 7.0, "DGNTEXT": "3964"}, "id": 7}
+{"geometry": {"type": "Point", "coordinates": [121.51937992054563, 25.143671928435744]}, "type": "Feature", "properties": {"Y": 2781988.132, "X": 301536.623, "ID": 8.0, "DGNTEXT": "3864"}, "id": 8}
+{"geometry": {"type": "Point", "coordinates": [121.51805667435565, 25.14321801316665]}, "type": "Feature", "properties": {"Y": 2781937.34, "X": 301403.4, "ID": 9.0, "DGNTEXT": "3864"}, "id": 9}
+{"geometry": {"type": "Point", "coordinates": [121.50986518701765, 25.137435705977396]}, "type": "Feature", "properties": {"Y": 2781293.705, "X": 300579.913, "ID": 10.0, "DGNTEXT": "3762"}, "id": 10}
+{"geometry": {"type": "Point", "coordinates": [121.50923653455285, 25.137182285634488]}, "type": "Feature", "properties": {"Y": 2781265.395, "X": 300516.632, "ID": 11.0, "DGNTEXT": "3762"}, "id": 11}
+{"geometry": {"type": "Point", "coordinates": [121.51736500213717, 25.128020823870667]}, "type": "Feature", "properties": {"Y": 2780253.73, "X": 301340.119, "ID": 12.0, "DGNTEXT": "3861"}, "id": 12}
+{"geometry": {"type": "Point", "coordinates": [121.51562957410361, 25.12768860212427]}, "type": "Feature", "properties": {"Y": 2780216.261, "X": 301165.263, "ID": 13.0, "DGNTEXT": "3861"}, "id": 13}
+{"geometry": {"type": "Point", "coordinates": [121.52650218037915, 25.131025558772105]}, "type": "Feature", "properties": {"Y": 2780590.119, "X": 302260.193, "ID": 14.0, "DGNTEXT": "3961"}, "id": 14}
+{"geometry": {"type": "Point", "coordinates": [121.52769508273894, 25.13191585309369]}, "type": "Feature", "properties": {"Y": 2780689.204, "X": 302380.094, "ID": 15.0, "DGNTEXT": "3961"}, "id": 15}
+{"geometry": {"type": "Point", "coordinates": [121.55420860739703, 25.140653300121976]}, "type": "Feature", "properties": {"Y": 2781667.747, "X": 305049.603, "ID": 16.0, "DGNTEXT": "4363"}, "id": 16}
+{"geometry": {"type": "Point", "coordinates": [121.55490174298326, 25.138986539268803]}, "type": "Feature", "properties": {"Y": 2781483.412, "X": 305120.25, "ID": 17.0, "DGNTEXT": "4363"}, "id": 17}
+{"geometry": {"type": "Point", "coordinates": [121.53961506474731, 25.155733096436006]}, "type": "Feature", "properties": {"Y": 2783332.125, "X": 303571.484, "ID": 18.0, "DGNTEXT": "4166"}, "id": 18}
+{"geometry": {"type": "Point", "coordinates": [121.53871639759787, 25.15574367213026]}, "type": "Feature", "properties": {"Y": 2783332.934, "X": 303480.88, "ID": 19.0, "DGNTEXT": "4166"}, "id": 19}
+{"geometry": {"type": "Point", "coordinates": [121.56466614239135, 25.179989736078063]}, "type": "Feature", "properties": {"Y": 2786029.324, "X": 306085.755, "ID": 20.0, "DGNTEXT": "4470"}, "id": 20}
+{"geometry": {"type": "Point", "coordinates": [121.56407749843984, 25.179371900662282]}, "type": "Feature", "properties": {"Y": 2785960.639, "X": 306026.709, "ID": 21.0, "DGNTEXT": "4470"}, "id": 21}
+{"geometry": {"type": "Point", "coordinates": [121.56203796697694, 25.177802244742924]}, "type": "Feature", "properties": {"Y": 2785785.912, "X": 305821.858, "ID": 22.0, "DGNTEXT": "4470"}, "id": 22}
+{"geometry": {"type": "Point", "coordinates": [121.57861930501339, 25.177814491099284]}, "type": "Feature", "properties": {"Y": 2785794.347, "X": 307493.208, "ID": 23.0, "DGNTEXT": "4670"}, "id": 23}
+{"geometry": {"type": "Point", "coordinates": [121.57801773447947, 25.17700093864944]}, "type": "Feature", "properties": {"Y": 2785703.971, "X": 307432.958, "ID": 24.0, "DGNTEXT": "4670"}, "id": 24}
+{"geometry": {"type": "Point", "coordinates": [121.56319404529931, 25.165826847574767]}, "type": "Feature", "properties": {"Y": 2784459.911, "X": 305943.934, "ID": 25.0, "DGNTEXT": "4468"}, "id": 25}
+{"geometry": {"type": "Point", "coordinates": [121.56508471016907, 25.164560358293336]}, "type": "Feature", "properties": {"Y": 2784320.423, "X": 306135.115, "ID": 26.0, "DGNTEXT": "4468"}, "id": 26}
+{"geometry": {"type": "Point", "coordinates": [121.56629062256143, 25.16483724036986]}, "type": "Feature", "properties": {"Y": 2784351.603, "X": 306256.552, "ID": 27.0, "DGNTEXT": "4468"}, "id": 27}
+{"geometry": {"type": "Point", "coordinates": [121.5446376828757, 25.164293598693146]}, "type": "Feature", "properties": {"Y": 2784282.386, "X": 304074.008, "ID": 28.0, "DGNTEXT": "4267"}, "id": 28}
+{"geometry": {"type": "Point", "coordinates": [121.54484991666334, 25.163808957060397]}, "type": "Feature", "properties": {"Y": 2784228.79, "X": 304095.62, "ID": 29.0, "DGNTEXT": "4267"}, "id": 29}
+{"geometry": {"type": "Point", "coordinates": [121.55128754907935, 25.15565308639016]}, "type": "Feature", "properties": {"Y": 2783328.025, "X": 304748.285, "ID": 30.0, "DGNTEXT": "4266"}, "id": 30}
+{"geometry": {"type": "Point", "coordinates": [121.55318694213307, 25.154725100127063]}, "type": "Feature", "properties": {"Y": 2783226.019, "X": 304940.195, "ID": 31.0, "DGNTEXT": "4366"}, "id": 31}
+{"geometry": {"type": "Point", "coordinates": [121.54545886358156, 25.17539602478059]}, "type": "Feature", "properties": {"Y": 2785512.509, "X": 304151.81, "ID": 32.0, "DGNTEXT": "4270"}, "id": 32}
+{"geometry": {"type": "Point", "coordinates": [121.54544792827816, 25.176793025876655]}, "type": "Feature", "properties": {"Y": 2785667.247, "X": 304150.081, "ID": 33.0, "DGNTEXT": "4270"}, "id": 33}
+    ]
+}
